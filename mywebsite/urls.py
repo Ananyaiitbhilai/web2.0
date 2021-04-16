@@ -34,6 +34,8 @@ urlpatterns = [
     path('loginform',index.loginform, name='loginform'),
     path('games',index.games, name='games'),
     path('contact',index.contact, name='contact'),
+    path('Flappy bird',index.Flappy bird, name='Flappy bird'),
+
     
     
     
