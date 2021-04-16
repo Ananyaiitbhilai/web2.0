@@ -71,6 +71,9 @@ def games(request):
     
 def contact(request):
     return render(request,'contact.html')
+
+def Flappy bird(request):
+    return render(request,'Flappy bird.html')
    
 
 
